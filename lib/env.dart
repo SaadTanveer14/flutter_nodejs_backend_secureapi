@@ -10,7 +10,7 @@ abstract class Env {
 }
 
 
-// ****************************Obfuscate your whole app*********************************
+// ****************************Obfuscate your whole app*******************************
 //                  https://docs.flutter.dev/deployment/obfuscate
 
 
